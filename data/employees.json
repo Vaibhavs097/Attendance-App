@@ -1,0 +1,6 @@
+[
+  { "name": "Vaibhav Shinde", "email": "vaibhav@example.com", "role": "Employee" },
+  { "name": "Saurabh", "email": "saurabh@example.com", "role": "Employee" },
+  { "name": "Ganesh", "email": "ganesh@example.com", "role": "Employee" },
+  { "name": "Admin User", "email": "admin@example.com", "role": "Admin" }
+]
