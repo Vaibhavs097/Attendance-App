@@ -57,12 +57,17 @@ npm run dev
 yarn dev
 Open http://localhost:3000
  to view the app.
-
+#Admin
  Email: admin@gmail.com
 Password: admin123
 Role: admin
 
-Email: employee1@gmail.com
+#Employees
+Email: vaibhav@gmail.com
+Password: emp123
+Role: employee
+
+Email: saurabh@gmail.com
 Password: emp123
 Role: employee
 
